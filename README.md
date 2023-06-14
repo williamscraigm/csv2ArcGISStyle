@@ -6,7 +6,7 @@ Supported picture types are PNG, JPEG, GIF, BMP and EMF. Use EMF if your source 
 
 If your source artwork is SVG, these sources must be converted to EMF.  See the .bat file for a simple way to do this with Inkscape.
 
-###CSV Format
+### CSV Format
 The CSV file must contain the following fields:
 - filePath: (string) the path to the input image.  It must be a complete path to the resource on disk (not a url)
 - pointSize: (double) the point size of the marker symbol desired
